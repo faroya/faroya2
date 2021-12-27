@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: far
     link: https://scholar.google.com/citations?user=p8zrh5gAAAAJ&hl=en
   - icon: github
     icon_pack: ai
