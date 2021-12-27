@@ -12,32 +12,29 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=p8zrh5gAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/faroya
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/farouk-yahaya-ph-d-643b4842/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: " Université du Littoral Côte d'Opale"
+    url: https://www.univ-littoral.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Signal Processing "
+      institution: " Université du Littoral Côte d'Opale"
+      year: 2021
+    - course: M.Sc. Information Science and Technology
+      institution: University of Information Science & Technology, North Macedonia
+      year: 2017
+    - course: BSc in  Communications and Network Security
+      institution: University of Information Science & Technology, North Macedonia
+      year: 2014
 superuser: true
 highlight_name: true
 title: Farouk Yahaya, PhD
