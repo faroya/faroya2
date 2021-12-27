@@ -10,7 +10,7 @@ interests:
   - Big data
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: /#contact
   - icon: graduation-cap
     icon_pack: fab
