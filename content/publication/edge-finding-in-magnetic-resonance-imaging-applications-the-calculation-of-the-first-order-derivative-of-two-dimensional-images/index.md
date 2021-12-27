@@ -26,14 +26,13 @@ tags:
   - cubic bivariate polynomial; edge finding; first-order derivative; motion
     artefacts; non-invasive; model-fitting; biomedical imaging; magnetic
     resonance imaging; edge-contour; two-dimensional images; edge detection.
-categories:
-  - hgcfh
-projects:
-  - hgvg
-slides: jhbhb
+categories: []
+projects: []
+slides: " "
 image:
-  filename: null
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2017-09-13T14:30:00.000Z
 ---
+![PDF](https://www.researchgate.net/profile/Farouk-Yahaya/publication/319496974_Edge_finding_in_magnetic_resonance_imaging_applications_the_calculation_of_the_first_order_derivative_of_two_dimensional_images/links/5ac48502a6fdcc1a5bd03a50/Edge-finding-in-magnetic-resonance-imaging-applications-the-calculation-of-the-first-order-derivative-of-two-dimensional-images.pdf?_sg%5B0%5D=OcJjngn2J64zXCilYVmO0ThiRuL6Cio5KywTqpOKcSCpt5hIjf4dyyu9ZMzhju9VzlAsdvoYa4oescoeC6Hltg.r5hu4aE6pq1srM9Wi8-IEk3ItHBr938ZYGWCkbcBr03oL_NO5v_In4cxqv6gSuil4QB4q7M70y6dQTRY4w14AQ.4NBFO23OdMu6iqXAqR_DcHkkgklshrIrA3CnyHHvN72YRgbZuVuMz6Os9nzAWNMpp5ym6tYoyt2GtU49Iuv1Tw&_sg%5B1%5D=5OoJ2ec6xrW7WP0kvWpiemBGA-Y2kLrJIyYv11yOPZvTJGcLBgnOrQjZj5kZ22CQV-eehpTHvnFaOx6iJYFxDVzgxD1QoPAP7NFSYjojMAat.r5hu4aE6pq1srM9Wi8-IEk3ItHBr938ZYGWCkbcBr03oL_NO5v_In4cxqv6gSuil4QB4q7M70y6dQTRY4w14AQ.4NBFO23OdMu6iqXAqR_DcHkkgklshrIrA3CnyHHvN72YRgbZuVuMz6Os9nzAWNMpp5ym6tYoyt2GtU49Iuv1Tw&_iepl= "PDF")
