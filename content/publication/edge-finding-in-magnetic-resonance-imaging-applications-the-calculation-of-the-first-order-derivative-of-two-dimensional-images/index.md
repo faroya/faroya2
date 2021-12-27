@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Farouk Yahaya
 doi: 10.1504/IJAPR.2017.086595
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: ""
+publication_short: In *International Journal of Applied Pattern Recognition*
 abstract: "This paper proposes a novel edge detection algorithm based on model
   fitting and the calculation of the first order derivative of two-dimensional
   images. It is central to mention that the aforementioned calculation can only
@@ -26,12 +26,14 @@ tags:
   - cubic bivariate polynomial; edge finding; first-order derivative; motion
     artefacts; non-invasive; model-fitting; biomedical imaging; magnetic
     resonance imaging; edge-contour; two-dimensional images; edge detection.
+categories:
+  - hgcfh
+projects:
+  - hgvg
+slides: jhbhb
 image:
   filename: null
   focal_point: Smart
   preview_only: false
 date: 2017-09-13T14:30:00.000Z
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
