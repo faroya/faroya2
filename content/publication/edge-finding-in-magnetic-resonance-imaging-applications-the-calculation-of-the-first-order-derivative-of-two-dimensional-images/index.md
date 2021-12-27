@@ -4,7 +4,7 @@ title: "Edge finding in magnetic resonance imaging applications: the calculation
 publication_types:
   - "2"
 authors:
-  - Farouk
+  - Farouk Yahaya
 doi: 10.1504/IJAPR.2017.086595
 abstract: "This paper proposes a novel edge detection algorithm based on model
   fitting and the calculation of the first order derivative of two-dimensional
@@ -25,8 +25,8 @@ tags:
     artefacts; non-invasive; model-fitting; biomedical imaging; magnetic
     resonance imaging; edge-contour; two-dimensional images; edge detection.
 image:
-  filename: featured
+  filename: null
   focal_point: Smart
   preview_only: false
-date: 2021-12-27T15:30:28.312Z
+date: 2017-09-13T14:30:00.000Z
 ---
