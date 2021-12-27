@@ -6,6 +6,8 @@ publication_types:
 authors:
   - Farouk Yahaya
 doi: 10.1504/IJAPR.2017.086595
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 abstract: "This paper proposes a novel edge detection algorithm based on model
   fitting and the calculation of the first order derivative of two-dimensional
   images. It is central to mention that the aforementioned calculation can only
