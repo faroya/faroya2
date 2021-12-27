@@ -13,18 +13,18 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: graduation-cap
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=p8zrh5gAAAAJ&hl=en
   - icon: github
-    icon_pack: fab
+    icon_pack: ai
     link: https://github.com/faroya
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.linkedin.com/in/farouk-yahaya-ph-d-643b4842/
   - display:
       header: false
     link: https://www.researchgate.net/profile/Farouk-Yahaya
-    icon_pack: fab
+    icon_pack: ai
     icon: researchgate
 organizations:
   - name: " Université du Littoral Côte d'Opale"
