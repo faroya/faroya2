@@ -3,9 +3,11 @@ role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Matrix Factorization/Completion
+  - Low-rank approximations
+  - Random projections and Sampling
+  - In situ sensor calibration
+  - Big data
 social:
   - icon: envelope
     icon_pack: fas
@@ -698,7 +700,7 @@ email: ""
 
 Dr. Farouk Yahaya’s research interests include matrix factorization/completion, low-rank approximations, random projections and sampling, sensor calibration, big data.
 
-He received both his BSc. and MSc degrees, in Communications and Network Security and Information Science respectively in 2010 and 2014 from the University of Information Science & Technology, Ohrid North Macedonia. He later obtained his Phd in Signal Processing from the Université du Littoral Côte d'Opale, Calais, France in September 2021.
+He received both his B.Sc. and M.Sc. degrees, in Communications and Network Security and Information Science respectively in 2010 and 2014 from the University of Information Science & Technology, Ohrid North Macedonia. He later obtained his Phd in Signal Processing from the Université du Littoral Côte d'Opale, Calais, France in September 2021.
 
 He is currently  affiliated with the University of the Littoral Cote d'Opale (ULCO)  as an Assistant Professor ( Attaché Temporaire d'enseignement et de Recherche - ATER ).
 
