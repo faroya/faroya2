@@ -21,6 +21,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/farouk-yahaya-ph-d-643b4842/
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Farouk-Yahaya
+    icon_pack: fab
+    icon: researchgate
 organizations:
   - name: " Université du Littoral Côte d'Opale"
     url: https://www.univ-littoral.fr/
