@@ -25,11 +25,11 @@ url_project: ""
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: In *ICW*
+publication_short: In *IJAPR*
 url_source: ""
 url_video: ""
-publication: In *Wowchemy Conference*
-featured: true
+publication: In *International Journal of Applied Pattern Recognition*
+featured: false
 date: 2017-09-13T15:52:14.177Z
 url_slides: ""
 title: "Edge finding in magnetic resonance imaging applications: the calculation
@@ -45,4 +45,3 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
-![](https://www.inderscienceonline.com/doi/abs/10.1504/IJAPR.2017.086595 "PDF")
