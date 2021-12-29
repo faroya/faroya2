@@ -16,8 +16,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert Ford
+  - ""
 summary: This paper proposes a novel edge detection algorithm based on model
   fitting and the calculation of the first-order derivative of two-dimensional
   images.
@@ -46,3 +45,4 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
+![]( "PDF")
