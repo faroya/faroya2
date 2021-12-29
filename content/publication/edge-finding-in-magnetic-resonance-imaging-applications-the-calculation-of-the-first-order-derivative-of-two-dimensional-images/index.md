@@ -16,15 +16,13 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - ""
+  - Farouk Yahaya
 summary: This paper proposes a novel edge detection algorithm based on model
   fitting and the calculation of the first-order derivative of two-dimensional
   images.
 url_dataset: ""
 url_project: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication_short: In *IJAPR*
 url_source: ""
 url_video: ""
@@ -43,5 +41,5 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
+doi: 10.1504/IJAPR.2017.086595
 ---
