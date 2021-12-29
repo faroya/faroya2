@@ -11,7 +11,7 @@ abstract: This paper proposes a novel edge detection algorithm based on model
   shows visible edges of the images as seen in the results section. The
   usefulness of the methodology is also tested on a range of images, practical
   applications, and performance analysis under realistic conditions.
-slides: ""
+slides: example
 url_pdf: ""
 publication_types:
   - "1"
@@ -35,7 +35,8 @@ url_slides: ""
 title: "Edge finding in magnetic resonance imaging applications: the calculation
   of the first order derivative of two dimensional images"
 tags: []
-projects: []
+projects:
+  - example
 image:
   caption: ""
   focal_point: ""
